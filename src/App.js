@@ -3,7 +3,7 @@ import React from "react";
 function App() {
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h1>Welcome to React</h1>
+      <h1>Welcome to React - Navbar Feature</h1>
       <h2>GitHub Integration Demo</h2>
       <p>This is a sample React application.</p>
     </div>
